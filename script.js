@@ -110,13 +110,13 @@ content.addEventListener('click', function () {
 	if (scene == 0) {
 		cover.style.animation = 'fadeout 1s alternate forwards';
 		play();
-		console.log('Created by: Aflinxh. Follow me on Tiktok: @aflinxh');
+		console.log('Created For Zhaqiela Ainayah');
 	} else if (scene == 1) {
 		text.innerHTML = 'pohon nya cantik ya sayang';
 		cover.style.zIndex = '-98';
 		play();
 	} else if (scene == 2) {
-		text.innerHTML = 'colorful... penuh warna';
+		text.innerHTML = 'colorful... penuh warna, seperti ici dikehidupan mas';
 		play();
 	} else if (scene == 3) {
 		text.innerHTML = 'yang warna-warni itu buah nya, banyak banget ya sayang';
@@ -143,7 +143,7 @@ content.addEventListener('click', function () {
 		text.innerHTML = 'jadi, kita tunggu sampe malam ya ssayang....';
 		play();
 	} else if (scene == 11) {
-		text.innerHTML = 'HAHAHAH gak kok, bercanda... kita langsung sulapin jadi malam aja ya';
+		text.innerHTML = 'HAHAHAH gak kok, bercanda... kita langsung sulapin jadi malam aja ya sayang';
 		play();
 	} else if (scene == 12) {
 		text.innerHTML = 'sini, Mas mau kasih Ici kekuatan buat muterin langit';
@@ -181,7 +181,7 @@ content.addEventListener('click', function () {
 		text.innerHTML = 'langit nya juga sepi bet';
 		play();
 	} else if (scene == 19) {
-		text.innerHTML = 'Mas inget Inget  bilang kalo ici suka disney, magical land gitu';
+		text.innerHTML = 'Mas inget Inget Tadi siang bilang kalo ici suka disney, magical land gitu';
 		play();
 	} else if (scene == 20) {
 		text.innerHTML = 'jadi... let me show you how magical this night would be';
